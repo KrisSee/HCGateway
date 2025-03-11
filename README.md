@@ -1,4 +1,7 @@
 # HCGateway
+Forked to allow modification of the app and server for self-hosting and without sentry.io. Refer to https://github.com/CoolCoderSJ/HCGateway for a hosted version.
+
+============================
 HCGateway is a platform to let developers connect to the Health Connect API on Android via a REST API. You can view the documentation for the REST API [here](https://hcgateway.shuchir.dev/)
 
 The platform consists of two parts:
